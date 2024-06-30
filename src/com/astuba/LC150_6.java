@@ -2,11 +2,10 @@ package com.astuba;
 
 
 import java.util.Arrays;
-import java.util.Collections;
-import java.util.LinkedList;
-import java.util.List;
 
 /**
+ * 轮转数组
+ *
  * 给定一个整数数组 nums，将数组中的元素向右轮转 k 个位置，其中 k 是非负数。
  */
 public class LC150_6 {
